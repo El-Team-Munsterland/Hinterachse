@@ -25,8 +25,18 @@ historischen Einordnung und dem Erfahrungsaustausch.
 
 ## CAD-Formate
 
-es liegen noch keine CAD-Modelle vor. Aufgrund der technischen Zeichnung ist bereits eine erfolgreiche Sammelbestellung über das Forum organisiert worden.
-Eine Überführung in ein gängiges CAD-Format wäre wünschenswert.
+Aufgrund der technischen Zeichnung ist bereits eine erfolgreiche Sammelbestellung über das Forum organisiert worden.
+Die CAD Daten wurden von [filip](https://elektroauto-forum.de/mitglieder/filip.198255/) erstellt und in seinem Github veröffentlicht
+[https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/model/#axle-model
+](https://filip-zyzniewski.github.io/city-el/mechanics/drive-axle/model/#axle-model
+)
+Die Dateien wurden mit CADQUERY erzeugt. Die Quelldaten sind im Filips Github einsehbar
+Eine Fertigung aufgrund der CAD Dateien ist nicht dokumentiert - Nutzung auf eigene Gefahr
+
+Die CAD Daten liegen in den folgenden Formaten vor:
+-glb
+-step
+-stl
 
 ---
 
