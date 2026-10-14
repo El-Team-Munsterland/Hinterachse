@@ -44,11 +44,11 @@ Die CAD Daten liegen in den folgenden Formaten vor:
 
 Die Zeichnungen wurden von [Rick (Kamikaze)](https://elektroauto-forum.de/mitglieder/kamikaze.194320/) in Auftrag gegeben und im Forum für die Allgemeinheit freigegeben
 
->>Da ich die Zeichnungen gekauft habe und selber an einem Open-Source-EL interessiert bin, gebe ich hiermit mein Einverständnis.
->>Das gilt übrigens auch für Alle, die damit Neuanfertigungen in Auftrag geben wollen.
->>Auch der City-EL-Verein von @Sascha Meyer darf diese Zeichnungen umfänglich nutzen.
->>
->>Einzige Auflage bei alledem: Es darf kein Gewinn damit erwirtschaftet werden, bzw. etwaige Gewinne sollen dem Erhalt eines oder mehrerer CityELs dienen. Die Zeichnungen sollen der Allgemeinheit dienen und keine >>Grundlage für Patente, Markenrechts-Streitigkeiten oä. werden. Open-Source eben. :)
+>Da ich die Zeichnungen gekauft habe und selber an einem Open-Source-EL interessiert bin, gebe ich hiermit mein Einverständnis.
+>Das gilt übrigens auch für Alle, die damit Neuanfertigungen in Auftrag geben wollen.
+>Auch der City-EL-Verein von @Sascha Meyer darf diese Zeichnungen umfänglich nutzen.
+>
+>Einzige Auflage bei alledem: Es darf kein Gewinn damit erwirtschaftet werden, bzw. etwaige Gewinne sollen dem Erhalt eines oder mehrerer CityELs dienen. Die Zeichnungen sollen der Allgemeinheit dienen und keine >Grundlage für Patente, Markenrechts-Streitigkeiten oä. werden. Open-Source eben. :)
 
 Die in diesem Repository veröffentlichten Daten werden unter der Lizenz  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
